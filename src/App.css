@@ -36,3 +36,82 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+
+    
+}
+
+.navbar a {
+  color: #16507b;
+  
+    
+}
+.navbar a:hover {
+  color: #2487ce;
+    
+}
+
+.hero {
+
+  position: relative;
+
+}
+
+.centerHero {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  top: 10%;
+}
+
+.centerHero h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+  color: #124265;
+}
+
+.centerHero p {
+  color: 5e5e5e;
+}
+
+.my-button {
+  background-color: #2487ce;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+
+}
+
+.cards-hero{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  top: 50%;
+
+  
+}
+.card {
+  margin: 30px;
+  max-width: 250px;
+  border: none;
+  text-align: left;
+  
+}
+
+.card-title {
+  font-family: 'Poppins', sans-serif;
+  color: #124265;
+  font-weight: 500;
+
+
+
+
+}
